@@ -1,4 +1,4 @@
-//Fenc problem: http://codeforces.com/problemset/problem/363/B 
+//Fence problem: http://codeforces.com/problemset/problem/363/B 
 
 import java.math.*;
 
